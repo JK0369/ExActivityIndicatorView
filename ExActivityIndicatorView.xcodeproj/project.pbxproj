@@ -13,6 +13,8 @@
 		4A18A81128421165001D9D72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A18A80F28421165001D9D72 /* Main.storyboard */; };
 		4A18A81328421165001D9D72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A18A81228421165001D9D72 /* Assets.xcassets */; };
 		4A18A81628421165001D9D72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A18A81428421165001D9D72 /* LaunchScreen.storyboard */; };
+		4A18A81E284213D9001D9D72 /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A18A81D284213D9001D9D72 /* VC2.swift */; };
+		4A18A82028421483001D9D72 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A18A81F28421483001D9D72 /* LoadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4A18A81228421165001D9D72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A18A81528421165001D9D72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A18A81728421166001D9D72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A18A81D284213D9001D9D72 /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
+		4A18A81F28421483001D9D72 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				4A18A80928421165001D9D72 /* AppDelegate.swift */,
 				4A18A80B28421165001D9D72 /* SceneDelegate.swift */,
 				4A18A80D28421165001D9D72 /* ViewController.swift */,
+				4A18A81D284213D9001D9D72 /* VC2.swift */,
+				4A18A81F28421483001D9D72 /* LoadingView.swift */,
 				4A18A80F28421165001D9D72 /* Main.storyboard */,
 				4A18A81228421165001D9D72 /* Assets.xcassets */,
 				4A18A81428421165001D9D72 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				4A18A80E28421165001D9D72 /* ViewController.swift in Sources */,
 				4A18A80A28421165001D9D72 /* AppDelegate.swift in Sources */,
 				4A18A80C28421165001D9D72 /* SceneDelegate.swift in Sources */,
+				4A18A82028421483001D9D72 /* LoadingView.swift in Sources */,
+				4A18A81E284213D9001D9D72 /* VC2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
